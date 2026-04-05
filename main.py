@@ -13,7 +13,7 @@ def run_flask():
 # --- TERA DATA (Token ek baar phir se check kar lena bhai) ---
 API_ID = 34021699
 API_HASH = "0230fa05102dc2819b46fa00abbe7fd9"
-BOT_TOKEN = "8664894205:AAGvnqPloabIfIe0sV_wZG7H1roghJq5ONg"
+BOT_TOKEN = "8791954092:AAEZMuHyKgZgPGzUiRCBPz8xH-tztxSrKFs"
 
 app = Client("debug_bot_new", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
